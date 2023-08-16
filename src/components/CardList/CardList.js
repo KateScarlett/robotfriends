@@ -3,6 +3,7 @@ import './CardList.css';
 import Card from "../Card/Card";
 
 const CardList = ({robots}) => {
+
     return (
         <div className="CardList">
             {
